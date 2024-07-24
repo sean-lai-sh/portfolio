@@ -1,6 +1,7 @@
 {
     "redirects": [
       {
+
         "source": "/autogopitch",
         "destination": "https://docs.google.com/presentation/d/1B_L1SEOEIX92GrK-bn5nNZSDUPePX4l0/edit?usp=sharing&ouid=112388206392190541273&rtpof=true&sd=true",
         "permanent": true
